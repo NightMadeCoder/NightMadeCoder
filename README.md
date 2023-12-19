@@ -1,79 +1,35 @@
-<p>
-<h1 align="center">Hi there, A|S ARI 😊</h1>
- </p>
- <p align="center">
- <a href="https://twitter.com/nightmadecoder"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
- <a href="www.linkedin.com/in/nightmadecoder><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
-<br />
+<h1 align="center">Hi 👋, I'm A|S</h1>
+<h3 align="center">Software Engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightmadecoder" alt="nightmadecoder" /></a> </p>
 
-<p align="center">A Seasoned Professional With Expertise In JavaScript , Showcasing A Strong Command Over Front-end And Back-end Development. With a focus on web development, this specialist excels in creating dynamic and interactive user interfaces using JS, along with building robust server-side applications and databases using NODE. </p>
+- 🔭 I’m currently working on **TrussGrooveltd**
 
+- 🌱 I’m currently learning **PYTHON**
 
-<h3 align="center"> 💼 Languages and Tools</h3>
+- 👯 I’m looking to collaborate on **Projects**
 
-<br />
+- 👨‍💻 All of my projects are available at [https://nightmadecoder.github.io/my-portfolio/](https://nightmadecoder.github.io/my-portfolio/)
 
-<p align="center">
+- 💬 Ask me about **(JS)(REACT)**
 
-<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+- 📫 How to reach me **NightMadeCoder@gmail.com**
 
-<img src="https://img.shields.io/badge/firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+- 📄 Know about my experiences [https://nightmadecoder.github.io/my-portfolio/](https://nightmadecoder.github.io/my-portfolio/)
 
-<img src="https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=white" />
+- ⚡ Fun fact **GAMER**
 
-
-<img src="https://img.shields.io/badge/bootstrap5-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/styled--component-pink?style=for-the-badge&logo=styledComponents&logoColor=black" />
-<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nightmadecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nightmadecoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nightmadecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nightmadecoder" height="30" width="40" /></a>
+<a href="https://instagram.com/nightmadecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nightmadecoder" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightmadecoder&show_icons=true&locale=en&layout=compact" alt="nightmadecoder" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmadecoder&" alt="nightmadecoder" /></p>
 
-
-<h2 align="center">About me 😇</h2>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/NAJIB-B/najibquiz">A simple Quiz app</a> which small schools can utilize in testing their students so as to adopt a more modern way of testing students, without having to print mutiple papers or pay to use a software. It was designed base on the standard question fomart in Nigeria. I created this project to participate in my first hackathon - AWS Amplify x Hashnode Hackathon September 2022. 🥳</p>
-<br />
-<p>:muscle: I have a very strong passion for solving real life problems.</p>
-<p>:eyes: I’m currently building projects ... and planing on moving on to web3.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Want to connect with people and add value to anything I can... I am happy to help.</p>
-<p>:ghost: Fun fact: ... I am currently studying Physics, but I switched careers and learned coding. </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAJIB-B&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NAJIB-B)](https://git.io/streak-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NAJIB-B&langs_count=5&theme=tokyonight)]()
-
-
-
-<br />
-<p align="center">
-I love connecting with different people, so say hi! I'll be happy to meet you more! 😊
-</p>
-
-<br />
-<h2 align="center"> 📕 Latest Blog Posts</h2>
-
-<!-- DEV:START -->
-- [Using object of object type in Typescript](https://najibbala.hashnode.dev/using-object-of-object-type-in-typescript)
-- [About my simple quiz app](https://najibbala.hashnode.dev/quiz-maker-for-small-schools)
-
-
-<!---
-NAJIB-B/NAJIB-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
