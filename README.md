@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm A|S</h1>
+<h1 align="center">Hi 👋, I'm A|S Ari</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightmadecoder" alt="nightmadecoder" /></a> </p>
 
 - 🔭 I’m currently working on **TrussGrooveltd**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **REACT**
 
 - 👯 I’m looking to collaborate on **Projects**
 
