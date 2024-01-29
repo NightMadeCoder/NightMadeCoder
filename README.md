@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi! there 👋, I'm Jallall </h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -30,4 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightmadecoder&show_icons=true&locale=en&layout=compact" alt="nightmadecoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmadecoder&" alt="nightmadecoder" /></p>
-
